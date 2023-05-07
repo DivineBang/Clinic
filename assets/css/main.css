@@ -1004,7 +1004,7 @@ ul,li{
         position: fixed;
         z-index: 2;
         display: none; 
-        background: linear-gradient(270.22deg, #87cfeb30 0%, #fad6a530 100%);
+        background: linear-gradient(270.22deg, #87cfebef 0%, #fad6a5e1 100%);
         top: 55px;
         border-bottom-left-radius:  10px;
         border-bottom-right-radius:  10px;
@@ -1018,7 +1018,7 @@ ul,li{
 
     }
     .menu__item{
-       width: 200px;
+       width: 100%;
        display: flex;
        text-align: center;
        justify-content: center;
