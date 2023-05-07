@@ -543,7 +543,7 @@ ul,li{
     height: auto;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 15px;
     margin: 0 auto 15px;
     align-items: center;
 }
